@@ -9,7 +9,7 @@
     @vite('resources/js/app.js')
 </head>
 
-<body class="text-bg-dark">
+<body>
 
     @include('layouts.partials.head')
     
@@ -17,9 +17,7 @@
         @yield('content')
     </main>
 
-    <footer>
-
-    </footer>
+    @include('layouts.partials.footer')
 
 </body>
 

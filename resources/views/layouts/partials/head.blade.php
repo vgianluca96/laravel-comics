@@ -6,7 +6,7 @@
                 dc power visa
             </div>
             <div class="px-0">
-                additiona dc sites
+                additional dc sites
             </div>
         </div>
     </div>
