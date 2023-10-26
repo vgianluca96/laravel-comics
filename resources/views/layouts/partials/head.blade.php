@@ -1,6 +1,3 @@
-
-
-
 <header class="bg-light">
     
     <div class="header-top">
@@ -13,6 +10,7 @@
             </div>
         </div>
     </div>
+
     <div class="container w-75">
         <nav class="navbar navbar-expand-lg">
             <div class="container-fluid">
@@ -36,8 +34,7 @@
                 </form>
               </div>
             </div>
-          </nav>
-        
+        </nav>
     </div>
     <div class="jumbotron">
 
