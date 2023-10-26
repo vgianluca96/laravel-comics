@@ -11,10 +11,8 @@
 
 <body class="text-bg-dark">
 
-    <header>
-
-    </header>
-
+    @include('layouts.partials.head')
+    
     <main>
         @yield('content')
     </main>
